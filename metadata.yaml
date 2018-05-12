@@ -1,0 +1,41 @@
+_repo: Gold-in-the-Sky_23882
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Llewellyn
+    gutenberg_agent_id: '32346'
+    url: http://www.gutenberg.org/2009/agents/32346
+covers:
+- cover_type: archival
+  image_path: 23882-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Edwards, Al
+    - Nourse, Alan E. (Alan Edward)
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
+description: Acclaimed sci-fi author Alan E. Nourse offers up an exciting tale of
+  treachery, adventure, and vast wealth in the novel Gold in the Sky. The story unfolds
+  among the rarefied and rough-and-tumble crews who mine the surface of asteroids
+  for valuable metals and minerals. Much like the lawless mining towns of the Old
+  West, these groups are made up of rapacious types who will stop at nothing to strike
+  it rich.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Gold in the Sky
+url: http://www.gutenberg.org/ebooks/23882
